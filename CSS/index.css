@@ -1,0 +1,16 @@
+.borde
+{
+    border-radius: 50px;
+    background-color:lightblue;
+}
+.info
+{   
+    text-align: center;
+    font-size: 18;
+    font-family: cursive;
+}
+
+.video
+{
+    margin: 0 auto; width: 1000px;
+}
